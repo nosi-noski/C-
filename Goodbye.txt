@@ -1,1 +1,2 @@
-print("Goobbye");
+print("Goodbye");
+print("G1")
