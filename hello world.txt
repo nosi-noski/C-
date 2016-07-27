@@ -2,5 +2,4 @@ print("Hello world!;");
 print("Hello all!;");
 print("Hello;");
 print("Hello MY DEAR FRIEND;");
-print("Glead to see you;");
-
+IF(2==2)(print("Glead to see you again;");)
