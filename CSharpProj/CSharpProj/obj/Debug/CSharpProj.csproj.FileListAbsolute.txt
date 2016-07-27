@@ -1,0 +1,1 @@
+D:\Курс по Гиту\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe.config
