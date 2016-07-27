@@ -1,6 +1,0 @@
-D:\Курс по Гиту\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe.config
-D:\Курс по Гиту\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe
-D:\Курс по Гиту\CSharpProj\CSharpProj\bin\Debug\CSharpProj.pdb
-D:\Курс по Гиту\CSharpProj\CSharpProj\obj\Debug\CSharpProj.csprojResolveAssemblyReference.cache
-D:\Курс по Гиту\CSharpProj\CSharpProj\obj\Debug\CSharpProj.exe
-D:\Курс по Гиту\CSharpProj\CSharpProj\obj\Debug\CSharpProj.pdb
